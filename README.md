@@ -20,4 +20,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgayangi&theme=dark" alt="sgayangi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgayangi&langs_count=8&layout=compact&&theme=dark&hide=jupyter%20notebook,python,javascript" alt="sgayangi" /></p>
