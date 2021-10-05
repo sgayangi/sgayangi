@@ -18,5 +18,5 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sgayangi&count_private=true&hide=stars&show_icons=true&theme=dark" alt="sgayangi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgayangi&theme=dark" alt="sgayangi" /></p>
+<p><img align="center" src="https://readmestats.herokuapp.com/?user=sgayangi&theme=dark" alt="sgayangi" /></p>
 
