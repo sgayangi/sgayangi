@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Gayangi</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Gayangi</h1>
 <p>I'm a third year Computer Science and Engineering undergraduate at the University of Moratuwa.</p>
 
 <h3 align="left">Connect with me:</h3>
